@@ -1,0 +1,11 @@
+order_id,quantity,item_name,ingredients,item_price
+1,1,Chips,potato-basil leaves-ascorbic acid-sodium phosphate-sodium bisulfite-emulsifiers,2.5
+1,1,Soft Biscuits,NaN,5.4
+1,1,Orange Juice,water-sugar-citric acid-natural and artificial flavours-sodium benzoate-colour,1.2
+1,2,Chicken Noodles, wheat flour-palm oil-salt-onion powder-cornstarch-wheat gluten,4
+1,1,Chips Salt,potato-tomato juice-ascorbic acid-sodium phosphate-sodium,2.8
+3,2,Chicken Noodles,wheat flour-palm oil-salt-onion powder-cornstarch-wheat gluten,4
+3,1,Yogurt,whole milk,3.4
+4,1,Milk,NaN,1.8
+4,1,Yogurt,whole milk,3.4
+5,1,Milk,NaN,1.8
